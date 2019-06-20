@@ -1,0 +1,7 @@
+C:\Users\garya\Documents\Developpment\Application\C#\CubeNumber\CubeNumber\bin\Debug\CubeNumber.exe.config
+C:\Users\garya\Documents\Developpment\Application\C#\CubeNumber\CubeNumber\bin\Debug\CubeNumber.exe
+C:\Users\garya\Documents\Developpment\Application\C#\CubeNumber\CubeNumber\bin\Debug\CubeNumber.pdb
+C:\Users\garya\Documents\Developpment\Application\C#\CubeNumber\CubeNumber\obj\Debug\CubeNumber.csprojAssemblyReference.cache
+C:\Users\garya\Documents\Developpment\Application\C#\CubeNumber\CubeNumber\obj\Debug\CubeNumber.csproj.CoreCompileInputs.cache
+C:\Users\garya\Documents\Developpment\Application\C#\CubeNumber\CubeNumber\obj\Debug\CubeNumber.exe
+C:\Users\garya\Documents\Developpment\Application\C#\CubeNumber\CubeNumber\obj\Debug\CubeNumber.pdb
